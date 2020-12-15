@@ -10,5 +10,5 @@ _with Mohamed Yahya Soali, Stéphane Gaubert & Xavier Allamigeon_.
 * [**Modelling of crowd movements**](sfafe/modeling_of_crowd_movements.pdf). 
 ([see](/modeling_of_crowd_movements.pdf)). _Advisors: Alexandre Ern & Samuel Amstutz & Aline Lefebvre-Lepot_.
 
-* [**Statistical analysis of the performance of a helicopter combustion chamber**](sfafe/rapport_centrale.pdf). 
-([see](sfafe.github.io/rapport_centrale.pdf)). _Advisors: Aymeric Vie & Guillaume Vignat_.
+* [**Statistical analysis of the performance of a helicopter combustion chamber**](sfafe/TMO01.pdf). 
+([see](/TMO01.pdf)). _Advisors: Aymeric Vie & Guillaume Vignat_.
