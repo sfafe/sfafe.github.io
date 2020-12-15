@@ -5,7 +5,7 @@ I am currently a third year student at Ecole Polytechnique majoring in Applied M
 _with Mohamed Yahya Soali, Stéphane Gaubert & Xavier Allamigeon_.
 
 * [**Spectral optimization on quantum graphs**](sfafe/spectral optimization on quantum graphs.pdf). 
-([see](sfafe.github.io/spectral optimization on quantum graphs.pdf)). _Advisor: Guillaume Levy_.
+([see](sfafe.github.io/spectral%20optimization%20on%20quantum%20graphs.pdf)). _Advisor: Guillaume Levy_.
 
 * [**Modelling of crowd movements**](sfafe/rapport_psc.pdf). 
 ([see](sfafe.github.io/rapport_psc.pdf)). _Advisors: Alexandre Ern & Samuel Amstutz & Aline Lefebvre-Lepot_.
