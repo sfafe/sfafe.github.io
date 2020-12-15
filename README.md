@@ -7,8 +7,8 @@ _with Mohamed Yahya Soali, Stéphane Gaubert & Xavier Allamigeon_.
 * [**Spectral optimization on quantum graphs**](sfafe/spectral_optimization_on_quantum_graphs.pdf). 
 ([see](spectral_optimization_on_quantum_graphs.pdf)). _Advisor: Guillaume Levy_.
 
-* [**Modelling of crowd movements**](sfafe/rapport_psc.pdf). 
-([see](sfafe.github.io/rapport_psc.pdf)). _Advisors: Alexandre Ern & Samuel Amstutz & Aline Lefebvre-Lepot_.
+* [**Modelling of crowd movements**](sfafe/modeling_of_crowd_movements.pdf). 
+([see](/modeling_of_crowd_movements.pdf)). _Advisors: Alexandre Ern & Samuel Amstutz & Aline Lefebvre-Lepot_.
 
 * [**Statistical analysis of the performance of a helicopter combustion chamber**](sfafe/rapport_centrale.pdf). 
 ([see](sfafe.github.io/rapport_centrale.pdf)). _Advisors: Aymeric Vie & Guillaume Vignat_.
