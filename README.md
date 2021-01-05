@@ -1,7 +1,7 @@
 I am currently a third year student at Ecole Polytechnique majoring in Applied Mathematics. You can find my CV [here](sfafe.github.io/Soufiane Fafe cv.pdf) (Last updated October 24th 2020).
 
 ## Research projects
-* [**Sizing of a technician intervention center on an electrical distribution network**](test.pdf),([see](test.pdf))
+* [**Sizing of a technician intervention center on an electrical distribution network**](sfafe/Sizing_technician_intervention_center.pdf),([see](Sizing_technician_intervention_center.pdf))
 _with Mohamed Yahya Soali, Stéphane Gaubert & Xavier Allamigeon_.
 
 * [**Spectral optimization on quantum graphs**](sfafe/spectral_optimization_on_quantum_graphs.pdf). 
