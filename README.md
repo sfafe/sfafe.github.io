@@ -18,4 +18,4 @@ _with Mohamed Yahya Soali, Stéphane Gaubert & Xavier Allamigeon_.
 
 * **Stochastic Calculus applied to finance - Computer Problem Sets**
 _Supervisor: [Nizar Touzi](http://www.cmap.polytechnique.fr/~touzi/)_
-[Folder](sfafe/Finance_Stochastic_Calculus_Computer_Problem_Sets/)
+[Folder](https://github.com/sfafe/Finance_Stochastic_Calculus_Computer_Problem_Sets)
