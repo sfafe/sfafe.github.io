@@ -21,7 +21,7 @@ _Supervisor: [Nizar Touzi](http://www.cmap.polytechnique.fr/~touzi/)_
 [Folder](https://github.com/sfafe/Finance_Stochastic_Calculus_Computer_Problem_Sets)
 
 * **Modeling Random Phenomena - PDE_Markov_Chains**
-_Supervisor: [Nizar Touzi](http://www.cmap.polytechnique.fr/~bodineau/)_
+_Supervisor: [Thierry Bodineau](http://www.cmap.polytechnique.fr/~bodineau/)_
 [Folder](https://github.com/sfafe/PDE_Markov_Chains)
 
 
