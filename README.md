@@ -12,3 +12,8 @@ _with Mohamed Yahya Soali, Stéphane Gaubert & Xavier Allamigeon_.
 
 * [**Statistical analysis of the performance of a helicopter combustion chamber**](sfafe/TMO01.pdf). 
 ([see](/TMO01.pdf)). _Advisors: Aymeric Vie & Guillaume Vignat_.
+## Course projects
+
+* **Stochastic Calculus applied to finance - Computer Problem Sets**
+_Supervisor: [Nizar Touzi](http://www.cmap.polytechnique.fr/~touzi/)_
+[Folder](sfafe/Finance_Stochastic_Calculus_Computer_Problem_Sets/CPS/)
